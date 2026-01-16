@@ -10,7 +10,7 @@
     },
     {
       "name": "profile",
-      "summary": "View your Nerd Barbarian profile",
+      "summary": "View your profile",
       "description": "Displays your Discord user profile related to the bot, including saved data and settings.",
       "beta": false,
       "category": "user",
