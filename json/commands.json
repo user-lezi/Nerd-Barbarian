@@ -6,7 +6,7 @@
       "description": "Displays a categorized list of all bot commands along with basic usage information.",
       "beta": false,
       "category": "utility",
-      "version": "1.0.0"
+      "version": 1
     },
     {
       "name": "profile",
@@ -14,7 +14,7 @@
       "description": "Displays your Discord user profile related to the bot, including saved data and settings.",
       "beta": false,
       "category": "user",
-      "version": "1.0.0"
+      "version": 1
     },
     {
       "name": "key",
@@ -22,7 +22,7 @@
       "description": "Allows you to set, view, or remove your Clash of Clans Developer API key used by the bot.",
       "beta": false,
       "category": "user",
-      "version": "1.0.0"
+      "version": 1
     }
   ],
   "names": [
