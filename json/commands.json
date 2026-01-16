@@ -1,0 +1,37 @@
+{
+  "commands": [
+    {
+      "name": "help",
+      "summary": "Shows all available commands",
+      "description": "Displays a categorized list of all bot commands along with basic usage information.",
+      "beta": false,
+      "category": "utility",
+      "version": "1.0.0"
+    },
+    {
+      "name": "profile",
+      "summary": "View your Nerd Barbarian profile",
+      "description": "Displays your Discord user profile related to the bot, including saved data and settings.",
+      "beta": false,
+      "category": "user",
+      "version": "1.0.0"
+    },
+    {
+      "name": "key",
+      "summary": "Manage your Clash of Clans API key",
+      "description": "Allows you to set, view, or remove your Clash of Clans Developer API key used by the bot.",
+      "beta": false,
+      "category": "user",
+      "version": "1.0.0"
+    }
+  ],
+  "names": [
+    "help",
+    "profile",
+    "key"
+  ],
+  "categories": [
+    "user",
+    "utility"
+  ]
+}
